@@ -1,4 +1,4 @@
-# Magnus-Archives-Wiki-By-Natty
+# Magnus Archives Wiki
 
 Magnus Archives Wiki made by Natty
 
