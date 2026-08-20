@@ -1,4 +1,6 @@
-#0122204 (date)
+# MAG1 - Anglerfish
+
+(#0122204)
 
 Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh.
 
@@ -10,13 +12,13 @@ Mentions the Institute, its founding in [1818](../Calendar/1818.md) and 200 year
 Reads case number 86-91 G/H as an example of bad label.
 
 Here we discover Jonathan's team is composed of: [Martin](../People/Martin.md), [Sasha](../People/Sasha.md), [Tim](../People/Tim.md)
- 
+
 Statement
 Person: [Nathan Watts](../People/Nathan%20Watts.md)
 Date: April 22nd [2012](../Calendar/2012.md), case happened in [2010](../Calendar/2010.md)
 Location: [Edinburgh](../Places%20and%20Companies/Edinburgh.md)
 
-Nathan is the person doing the statement. He mentions a celebration of a friend, Michael MacAulay, in Edinburgh where they do their university degrees. 
+Nathan is the person doing the statement. He mentions a celebration of a friend, Michael MacAulay, in Edinburgh where they do their university degrees.
 
 The monster in question looks like an Anglerfish, but uses what resembles a human to lure people. It says "Can I have a cigarette?" while the lure appears to be floating only if the victim really pay attention.
 

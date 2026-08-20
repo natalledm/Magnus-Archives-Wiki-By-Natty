@@ -1,4 +1,6 @@
-#9982211
+# MAG2 - Do Not Open
+
+(#9982211)
 
 Statement of Joshua Gillespie regarding his time in the possession of an apparently empty wooden casket.
 
@@ -14,5 +16,3 @@ It seems there was something "alive" inside the coffin, scratched if there was a
 Joshua had to freeze the key to the padlock so he didn't open the coffin while sleeping.
 
 We discover that Joshua was living alone in a whole complex for 2 years.
-
-

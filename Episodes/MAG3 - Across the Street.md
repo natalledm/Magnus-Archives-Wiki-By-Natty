@@ -1,4 +1,6 @@
-#0070107
+# MAG3 - Across the Street
+
+(#0070107)
 
 Statement of Amy Patel, regarding the alleged disappearance of her acquaintance Graham Folger.
 
@@ -18,4 +20,3 @@ We learn that [Not-Graham](../Others/Not-Graham.md) takes Graham Folger life and
 After Statement
 
 [Tim](../People/Tim.md) is the one who finds Amy Patel's medical files and the polaroid with Graham teenager self.
-

@@ -5,19 +5,6 @@ convert_wikilinks.py
 Converts Obsidian-style [[Wikilinks]] into standard relative Markdown links
 so they render correctly on GitHub.
 
-USAGE:
-    1. Clone your repo locally:
-         git clone https://github.com/natalledm/Magnus-Archives-Wiki-By-Natty.git
-         cd Magnus-Archives-Wiki-By-Natty
-    2. Copy this script into the repo root folder.
-    3. Run it:
-         python3 convert_wikilinks.py
-       (Add --dry-run first if you want to preview changes without writing files.)
-    4. Review the changes (e.g. with `git diff`), then commit and push:
-         git add -A
-         git commit -m "Convert Obsidian wikilinks to GitHub markdown links"
-         git push
-
 WHAT IT HANDLES:
     [[Page Name]]                        -> [Page Name](relative/path/Page%20Name.md)
     [[Page Name|Display Text]]           -> [Display Text](relative/path/Page%20Name.md)

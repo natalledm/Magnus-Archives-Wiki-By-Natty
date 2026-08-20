@@ -1,4 +1,6 @@
-#0071304
+# MAG8 - Burned Out
+
+(#0071304)
 
 Statement of Ivo Lensik regarding his experiences during the construction of a house on Hill Top Road, Oxford.
 
@@ -6,7 +8,9 @@ Who speaks in the episode: [Jonathan Sims](../People/Jonathan%20Sims.md)
 
 Statement
 Person: [Ivo Lensik](../People/Ivo%20Lensik.md)
+
 Date: March 13th, [2007](../Calendar/2007.md)
+
 Location: [Oxford](../Places%20and%20Companies/Oxford.md), Hill Top Road
 
 He talks about a house in Oxford, Hill Top Road. Ivo works with plumbing and wiring work specifically and was called to help in this house. This house had a very dead and creepy large tree in the backyard. He meets a man dressed in old clothes called [Raymond Fielding](../People/Raymond%20Fielding.md) and he says that he is the owner's house. Raymond showed the deed of the house and land beneath it, so Ivo let him in. The man disappeared and left a scorched patch of wood in his place.
@@ -20,6 +24,6 @@ He went back to work on the house until a day were he felt he was burning up. He
 
 After statement
 
-Jonathan mention that Father Burroughs appears in a file called #0218011 that we will later hear. 
+Jonathan mention that Father Burroughs appears in a file called #0218011 that we will later hear.
 [Gertrude Robinson](../People/Gertrude%20Robinson.md) - mentioned again about the mess of the archives.
-[Martin](../People/Martin.md) - researched that the house was bought by Walter Fielding in 1891. Later inherited by Alfred Fielding in 1923, and then by his grandson, Raymond Fielding, in 1957. He found also about Agnes Montague, [Agnes](../People/Agnes.md), who had stayed young and had Raymond's missing hand chained to herself and decayed just like her, nothing. 
+[Martin](../People/Martin.md) - researched that the house was bought by Walter Fielding in 1891. Later inherited by Alfred Fielding in 1923, and then by his grandson, Raymond Fielding, in 1957. He found also about Agnes Montague, [Agnes](../People/Agnes.md), who had stayed young and had Raymond's missing hand chained to herself and decayed just like her, nothing.
