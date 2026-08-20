@@ -1,7 +1,7 @@
 
-[[Coffin - Do not open]]
-[[Table - strange patterns]]
+[Coffin - Do not open](../Objects/Coffin%20-%20Do%20not%20open.md)
+[Table - strange patterns](../Objects/Table%20-%20strange%20patterns.md)
 
 Books
-[[Book - Ex Altiora]]
-[[Book - of Bones]]
+[Book - Ex Altiora](../Objects/Book%20-%20Ex%20Altiora.md)
+[Book - of Bones](../Objects/Book%20-%20of%20Bones.md)

@@ -10,6 +10,6 @@ Grant us the sound that we may not call.
 Another eye appears in Mag9, in the mother's pendant: a hand with a closed eye on it.
 
 Appears on:
-	[[MAG4 - Page Turner]]
-	[[MAG9 - A Father's Love]]
+	[MAG4 - Page Turner](../Episodes/MAG4%20-%20Page%20Turner.md)
+	[MAG9 - A Father's Love](../Episodes/MAG9%20-%20A%20Father%27s%20Love.md)
 

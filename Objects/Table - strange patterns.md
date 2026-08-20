@@ -3,4 +3,4 @@
 It may be connected with things that take other's places.
 
 Appears on:
-	[[MAG3 - Across the Street]]
+	[MAG3 - Across the Street](../Episodes/MAG3%20-%20Across%20the%20Street.md)
