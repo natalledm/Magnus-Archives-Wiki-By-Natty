@@ -1,6 +1,6 @@
 #0092302
 
-Statement Of Kieran Woodward regarding items recovered from the refuse of 93 Lancaster Road, Walthamstowe.
+Statement Of Kieran Woodward regarding items recovered from the refuse of 93 Lancaster Road, Walthamstow.
 
 Who speaks in the episode: [[Jonathan Sims]]
 

@@ -1,5 +1,4 @@
-  
-#20111507
+  #20111507
 
 First time hearing the narrator. Mention [[Elias Bouchard]] and the death of the previous Archivist.
 

@@ -1,4 +1,4 @@
-#0122204
+#0122204 (date)
 
 Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh.
 
@@ -22,4 +22,4 @@ The monster in question looks like an Anglerfish, but uses what resembles a huma
 
 Nathan mention a student named [[John Fellowes]] that also disappeared at the same time who also smoked.
 
-Between 2005 and 2010 there were other 6 disappearances around the Old Fishmarket Close: [[Jessica McEwen]] in November [[2005]], [[Sarah Baldwin]] in August [[2006]], [[Daniel Rawlings]] in December of the same year, then [[Ashley Dobson]] and [[Megan Shaw]] in May and June of 2008.
+Between 2005 and 2010 there were other 6 disappearances around the Old Fishmarket Close: [[Jessica McEwen]] in November [[2005]], [[Sarah Baldwin]] in August [[2006]], [[Daniel Rawlings]] in December of the same year, then [[Ashley Dobson]] and [[Megan Shaw]] in May and June of [2008](2008.md).

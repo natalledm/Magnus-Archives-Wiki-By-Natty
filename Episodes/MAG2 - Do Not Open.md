@@ -1,4 +1,3 @@
-
 #9982211
 
 Statement of Joshua Gillespie regarding his time in the possession of an apparently empty wooden casket.
