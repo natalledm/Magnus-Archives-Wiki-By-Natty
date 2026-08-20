@@ -1,3 +1,5 @@
+# Maxwell Rayner
+
 **Disappeared?**
 
 Creator of the [People's Church of the Divine Host](../Others/People%27s%20Church%20of%20the%20Divine%20Host.md). Created it on 1980 and disappeared by 1994.

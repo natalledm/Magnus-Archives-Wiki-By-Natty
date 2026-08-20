@@ -1,3 +1,5 @@
+# Elias Bouchard
+
 He is the head of the [Magnus Institute](../Places%20and%20Companies/Magnus%20Institute.md) and employed [Jonathan Sims](Jonathan%20Sims.md) in the Archives.
 
 Appears on:

@@ -1,3 +1,5 @@
+# Daniel Rawlings
+
 **Disappeared**
 
 Victim of the Anglerfish in [MAG1 - Anglerfish](../Episodes/MAG1%20-%20Anglerfish.md). Cited by the archivist.

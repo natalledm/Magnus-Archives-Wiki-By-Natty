@@ -1,4 +1,6 @@
-**Deceased, separated hand also dead
+# Raymond Fielding
+
+\*\*Deceased, separated hand also dead
 
 Owned the Hill house of Burned out. Was almost an orphanage, were he helped troubled children and teens.
 
