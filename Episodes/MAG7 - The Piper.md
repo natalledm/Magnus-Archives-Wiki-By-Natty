@@ -18,3 +18,5 @@ Clarence heard a whistling tune right before Wilfred was shot and hit with a mor
 Clarence muses that it is similar to the Hamelin flautist, a German tale.
 
 And on their last battle together, Clarence saw that Wilfred had a big shadow hinting the help from the War itself. He won the Military Cross for that battle. Wilfred said, on Clarence's bed after the battle, "Almost over now, Clarence", after confirming that he was listening to the piper tune. He died 2 days later. The Armistice was signed a week later.
+
+Next Episode: [MAG8](/Episodes/MAG8%20-%20Burned%20Out.md)

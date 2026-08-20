@@ -26,3 +26,5 @@ After statement
 [Martin](../People/Martin.md) talked with Kieran and found nothing new.
 [Sasha](../People/Sasha.md) found police reports mentioning Alan's brother Michael that filled a missing person report.
 2780 teeth that were exact the same tooth.
+
+Next Episode: [MAG6](/Episodes/MAG6%20-%20Squirm.md)

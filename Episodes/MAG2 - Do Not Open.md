@@ -16,3 +16,4 @@ It seems there was something "alive" inside the coffin, scratched if there was a
 Joshua had to freeze the key to the padlock so he didn't open the coffin while sleeping.
 
 We discover that Joshua was living alone in a whole complex for 2 years.
+Next Episode: [MAG3](/Episodes/MAG3%20-%20Across%20the%20Street.md)

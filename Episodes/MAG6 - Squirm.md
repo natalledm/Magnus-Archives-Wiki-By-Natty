@@ -20,3 +20,5 @@ She dies a la alien: explodes inside out and have black worms everywhere in the 
 After statement
 
 We discover the lady in red that infected Harriet is [Jane Prentiss](../People/Jane%20Prentiss.md), that went missing in the same place Harriet was infected.
+
+Next Episode: [MAG7](/Episodes/MAG7%20-%20The%20Piper.md)

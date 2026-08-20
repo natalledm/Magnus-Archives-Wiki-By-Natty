@@ -25,3 +25,5 @@ The monster in question looks like an Anglerfish, but uses what resembles a huma
 Nathan mention a student named [John Fellowes](../People/John%20Fellowes.md) that also disappeared at the same time who also smoked.
 
 Between 2005 and 2010 there were other 6 disappearances around the Old Fishmarket Close: [Jessica McEwen](../People/Jessica%20McEwen.md) in November [2005](../Calendar/2005.md), [Sarah Baldwin](../People/Sarah%20Baldwin.md) in August [2006](../Calendar/2006.md), [Daniel Rawlings](../People/Daniel%20Rawlings.md) in December of the same year, then [Ashley Dobson](../People/Ashley%20Dobson.md) and [Megan Shaw](../People/Megan%20Shaw.md) in May and June of [2008](2008.md).
+
+Next Episode: [MAG2](/Episodes/MAG2%20-%20Do%20Not%20Open.md)

@@ -41,3 +41,5 @@ Jon mentions statement #1106922 (I will edit this when I find the episode).
 Mr. Rayner himself disappeared from public view sometime in 1994.
 
 Robert Montauk died in prison a year later, on November 1st [2002](../Calendar/2002.md). Was stabbed 47 times. His cell had a blown out lightbulb.
+
+Next Episode: [MAG10](/Episodes/MAG10%20-%20Vampire%20Killer.md)

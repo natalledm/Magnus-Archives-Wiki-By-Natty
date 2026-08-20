@@ -27,3 +27,5 @@ After statement
 Jonathan mention that Father Burroughs appears in a file called #0218011 that we will later hear.
 [Gertrude Robinson](../People/Gertrude%20Robinson.md) - mentioned again about the mess of the archives.
 [Martin](../People/Martin.md) - researched that the house was bought by Walter Fielding in 1891. Later inherited by Alfred Fielding in 1923, and then by his grandson, Raymond Fielding, in 1957. He found also about Agnes Montague, [Agnes](../People/Agnes.md), who had stayed young and had Raymond's missing hand chained to herself and decayed just like her, nothing.
+
+Next Episode: [MAG8](/Episodes/MAG8%20-%20Burned%20Out.md)

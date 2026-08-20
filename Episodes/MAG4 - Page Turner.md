@@ -42,3 +42,5 @@ We learn that there was an incident in [1994](../Calendar/1994.md) on the librar
 
 [Tim](../People/Tim.md) found out that the drying sheets of skin had been written over in permanent marker in Sanskrit. _So the leather of the [Book - of Bones](../Objects/Book%20-%20of%20Bones.md) may have been from her skin or an ode to the book, but this is just a way of assuming things._
 [Elias Bouchard](../People/Elias%20Bouchard.md) is mentioned and will be notified due to the important nature of Jurgen books.
+
+Next Episode: [MAG5](/Episodes/MAG5%20-%20Thrown%20Away.md)

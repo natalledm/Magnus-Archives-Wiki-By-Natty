@@ -8,3 +8,5 @@ _Vigilo. Audio. Opperior._
 EN: I watch. I listen. I await.
 
 [Jonathan Sims](../People/Jonathan%20Sims.md) mentions [Martin](../People/Martin.md) for the first time and it is clear he have problems with him.
+
+Next Episode: [MAG1](/Episodes/MAG1%20-%20Anglerfish.md)

@@ -20,3 +20,5 @@ We learn that [Not-Graham](../Others/Not-Graham.md) takes Graham Folger life and
 After Statement
 
 [Tim](../People/Tim.md) is the one who finds Amy Patel's medical files and the polaroid with Graham teenager self.
+
+Next Episode: [MAG4](/Episodes/MAG4%20-%20Page%20Turner.md)
