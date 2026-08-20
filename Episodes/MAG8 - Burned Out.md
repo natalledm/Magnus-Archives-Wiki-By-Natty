@@ -6,7 +6,10 @@ Statement of Ivo Lensik regarding his experiences during the construction of a h
 
 Who speaks in the episode: [Jonathan Sims](../People/Jonathan%20Sims.md)
 
-Statement
+---
+
+## Statement
+
 Person: [Ivo Lensik](../People/Ivo%20Lensik.md)
 
 Date: March 13th, [2007](../Calendar/2007.md)
@@ -22,7 +25,9 @@ After a concussion, Ivo discovered at the hospital that Raymond was real and liv
 
 He went back to work on the house until a day were he felt he was burning up. He was saved by a knock, that was Father [Edwin Burroughs](../People/Edwin%20Burroughs.md), sent by the nurse [Annie](../People/Annie.md). After leaving the priest to bless the house, he found a box with a perfect green apple in the creepy tree. The apple shriveled in his hand and was rotten in seconds, after bursting with tons of spiders and disappearing in a cloud of dust. He destroyed the box that contained it.
 
-After statement
+---
+
+### After statement
 
 Jonathan mention that Father Burroughs appears in a file called #0218011 that we will later hear.
 [Gertrude Robinson](../People/Gertrude%20Robinson.md) - mentioned again about the mess of the archives.

@@ -6,9 +6,14 @@ Statement of Staff Sgt. Clarence Berry regarding his time serving with Wilfred O
 
 Who speaks in the episode: [Jonathan Sims](../People/Jonathan%20Sims.md)
 
-Statement
+---
+
+## Statement
+
 Person: [Clarence Berry](../People/Clarence%20Berry.md)
+
 Date: November 6th, [1922](../Calendar/1922.md)
+
 Location: Sawy Wood, WWII
 
 It is a war tale told by Staff Sergeant Clarence. He was part of the Manchester Regiment, 2nd Battalion, and was shipped off to France with the British Expeditionary Force. He mentions [Wilfred Owen](../People/Wilfred%20Owen.md), the only other one he know that saw [The Piper - War](../Others/The%20Piper%20-%20War.md).

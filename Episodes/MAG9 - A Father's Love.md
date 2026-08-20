@@ -6,7 +6,10 @@ Statement of Julia Montauk regarding the actions and motivations of her father, 
 
 Who speaks in the episode: [Jonathan Sims](../People/Jonathan%20Sims.md)
 
-Statement
+---
+
+## Statement
+
 Person: [Julia Montauk](../People/Julia%20Montauk.md)
 
 Date: December 3rd, [2002](../Calendar/2002.md)
@@ -28,7 +31,9 @@ Apparently her father also took photographs. She saw some, faces of dead people 
 
 (So, her father tried to get rid of an entire cult? 40 people that followed the closed eye?)
 
-After statement
+---
+
+### After statement
 
 40 hearts. 11 on each wall and 7 on the wall with the door, something related to sacred geometry.
 

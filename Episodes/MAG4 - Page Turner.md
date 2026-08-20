@@ -6,9 +6,14 @@ Statement of Dominic Swain, regarding a book briefly in his possession in the wi
 
 Who speaks in the episode: [Jonathan Sims](../People/Jonathan%20Sims.md)
 
-Statement
+---
+
+## Statement
+
 Person: [Dominic Swain](../People/Dominic%20Swain.md)
+
 Date: June 28th, [2013](../Calendar/2013.md) - happened in winter of [2012](../Calendar/2012.md)
+
 Location: [London](../Places%20and%20Companies/London.md)
 
 Dominic finds a strange book, [Book - Ex Altiora](../Objects/Book%20-%20Ex%20Altiora.md) that came from the Library of [Jurgen Leitner](../People/Jurgen%20Leitner.md). It has several black and white illustrations, woodcuts, showing a mountain or cliffs on an empty night sky. It made who looked feel like falling.
@@ -34,7 +39,9 @@ We realize that Mary was dead before she could have met Dominic, murdered in [20
 We learn that he sells the book to [Gerard Keay](../People/Gerard%20Keay.md) for 5k pounds. Gerard burns it right away and explain only with:
 “My mother doesn’t always know what’s best for our family.”
 
-After the statement
+---
+
+### After the statement
 
 We learn that there was an incident in [1994](../Calendar/1994.md) on the library of [Jurgen Leitner](../People/Jurgen%20Leitner.md). No details, only that something happened in this date at the library. Jonathan mentions the mess [Gertrude Robinson](../People/Gertrude%20Robinson.md) left the archives and that she worked more than 50 years in this position.
 
